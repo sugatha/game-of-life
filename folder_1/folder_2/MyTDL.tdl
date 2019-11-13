@@ -1,0 +1,8 @@
+[#Menu: Gateway of Tally]
+	Add: Item: Before: ~Quit: MySoftware: Menu: MySoftware 
+
+[Menu: MySoftware]
+
+	;;Action
+	
+	
